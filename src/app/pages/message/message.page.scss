@@ -1,0 +1,32 @@
+textarea{
+    width: 99%;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+ion-button {
+    width: 80%;
+  }
+  ion-list{
+    min-height: 100px;
+  }
+  ion-contact{
+    border-radius: 50px;
+  }
+  ion-icon{
+    height: 39px;
+  }
+  .messageBox{
+    background-color:rgba(49, 74, 216, 0.603);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    white-space: pre-wrap;
+  }
+
+  ion-grid{
+    width: 50%;
+    float: right;
+  }
+ 
